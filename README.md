@@ -11,3 +11,4 @@ git clone https://github.com/htr-tech/zphisher
 cd  
 ls  
 cd EthicalHackerrxce.git
+EthicalHackerrxce.py
